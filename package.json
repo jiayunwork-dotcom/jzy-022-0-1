@@ -1,0 +1,17 @@
+{
+  "name": "gold-sequence-service",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gold code family generation and periodic-correlation reconciliation over HTTP",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test test/"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "express": "^4.22.3"
+  }
+}

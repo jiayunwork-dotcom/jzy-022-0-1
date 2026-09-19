@@ -1,0 +1,37 @@
+[
+  {
+    "name": "gold-n5",
+    "n": 5,
+    "first": { "octal": "45" },
+    "second": { "octal": "75" },
+    "description": "Gold preferred pair, n=5, N=31 (x^5+x^2+1 / x^5+x^4+x^3+x^2+1)"
+  },
+  {
+    "name": "gold-n7-demo",
+    "n": 7,
+    "first": { "octal": "211" },
+    "second": { "octal": "217" },
+    "description": "Demonstration preferred pair, n=7, N=127 (x^7+x^3+1 / x^7+x^3+x^2+x+1)"
+  },
+  {
+    "name": "gold-n9",
+    "n": 9,
+    "first": { "octal": "1021" },
+    "second": { "octal": "1131" },
+    "description": "Gold preferred pair, n=9, N=511"
+  },
+  {
+    "name": "gold-n11",
+    "n": 11,
+    "first": { "octal": "4005" },
+    "second": { "octal": "4445" },
+    "description": "Gold preferred pair, n=11, N=2047"
+  },
+  {
+    "name": "gold-n13",
+    "n": 13,
+    "first": { "octal": "20033" },
+    "second": { "octal": "23261" },
+    "description": "Gold preferred pair, n=13, N=8191"
+  }
+]
