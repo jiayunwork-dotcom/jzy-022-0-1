@@ -1,0 +1,17 @@
+{
+  "name": "gold-code-reconciler",
+  "version": "1.0.0",
+  "description": "Gold code preferred-pair generation and periodic correlation reconciliation over HTTP",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
